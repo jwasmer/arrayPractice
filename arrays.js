@@ -1,4 +1,5 @@
 // Practice with arrays
+// Commented to correct git add/git commit confusion
 
 var cars = ["Toyota", "Ford", "Honda", "Kia"];
 var years = [1991, 1992, 1993, 1994];
