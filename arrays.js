@@ -36,6 +36,7 @@ console.log(`
 console.log(cars)
 console.log(cars.indexOf("Honda"))
 
+// Commented to correct git add/git commit confusion
 // Index positions begin at 0 in array and increase by 1 for each new entry. The
 // value of each element in the "indexPositions" array defined below corresponds
 // with my expected index position for that value. I then call the indexOf()
