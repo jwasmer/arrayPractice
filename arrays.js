@@ -5,6 +5,7 @@ var cars = ["Toyota", "Ford", "Honda", "Kia"];
 var years = [1991, 1992, 1993, 1994];
 var bools = [true, false, false, true];
 
+// Commented to correct git add/git commit confusion
 // First, this will show the original array. Next, it will remove the last entry
 // to that array and return it. Then, it will show the modified array.
 
